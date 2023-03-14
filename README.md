@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frunoob)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frunoob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - 🔭 I’m currently working on JAVA development
 - 🌱 I’m currently learning Micro-Controller Unite
-
 <!--
 **frunoob/frunoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frunoob)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frunoob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
