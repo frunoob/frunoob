@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
+<!--
 - 🔭 I’m currently working on JAVA development
 - 🌱 I’m currently learning Micro-Controller Unite
-<!--
+
 **frunoob/frunoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
